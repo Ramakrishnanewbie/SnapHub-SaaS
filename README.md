@@ -3,6 +3,11 @@ It is a documentation SaaS platform that caters to handling documentation simila
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+
+# To-Do's
+
+Rename values of .env.example to .env and 
+
 ## Getting Started
 
 First, run the development server:
